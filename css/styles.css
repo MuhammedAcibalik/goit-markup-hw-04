@@ -212,7 +212,6 @@ img {
   background-color: var(--light);
   border-radius: 4px;
   margin-bottom: 8px;
-  border: 1px solid #8e8f99;
 }
 
 .features-subtitle {
@@ -525,7 +524,7 @@ img {
 .customers-link {
   width: 100%;
   height: 100%;
-  border: 1px solid var(--subtle-text);
+  border: 1px solid #8e8f99;
   border-radius: 4px;
   display: flex;
   align-items: center;
